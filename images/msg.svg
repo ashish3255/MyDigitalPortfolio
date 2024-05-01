@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <text id="_" data-name="" transform="translate(40 69)" fill="#070606" font-size="80" font-family="FontAwesome" style="white-space: pre;"><tspan x="-40" y="0"></tspan></text>
+  <rect x="7.917" y="14.256" width="46.572" height="59.198" style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"/>
+  <circle style="fill: rgb(51, 77, 92);" cx="37.284" cy="42.033" r="42.091" transform="matrix(0.720852, 0, 0, 0.704747, 13.345133, 10.602715)"/>
+  <path style="opacity: 0.1;" d="M 70.55 40.836 L 57.606 28.181 L 22.836 39.385 L 34.159 50.455 L 34.159 52.272 L 50.418 68.168 C 61.974 64.138 70.288 53.455 70.55 40.836 Z"/>
+  <polygon style="fill: rgb(235, 240, 243);" points="22.836 39.389 57.605 28.18 50.533 49.506"/>
+  <polygon style="fill: rgb(225, 230, 233);" points="57.605 28.18 34.158 43.525 39.171 45.355"/>
+  <polygon style="fill: rgb(213, 214, 219);" points="34.158 52.272 34.158 43.525 39.171 45.355"/>
+  <polyline style="fill: rgb(225, 230, 233);" points="34.158 52.272 42.41 46.539 39.171 45.355"/>
+</svg>
